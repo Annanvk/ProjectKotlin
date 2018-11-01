@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "350854019484",
+    "firebase_url": "https://t-a-g-e.firebaseio.com",
+    "project_id": "t-a-g-e",
+    "storage_bucket": "t-a-g-e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350854019484:android:e2a849672189ac08",
+        "android_client_info": {
+          "package_name": "io.tage.android.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350854019484-734sb3nm8eeg69lsfg189hk3ptqcvb9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.tage.android.app",
+            "certificate_hash": "acc7cd007af4f322e5b1fb4985affa3a69d1cb3f"
+          }
+        },
+        {
+          "client_id": "350854019484-n1upqv6m67p9ccgvnaom68flil3814d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.tage.android.app",
+            "certificate_hash": "25dfe7ed1d9abdf7bfdc1933d1075e1e75c6dea8"
+          }
+        },
+        {
+          "client_id": "350854019484-0u5br7t7bk1d13o8rskoqrh1sljsbnq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzF6lq6iYI6lJ2eivAhn2npdLsOTRoQx4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350854019484-0u5br7t7bk1d13o8rskoqrh1sljsbnq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
